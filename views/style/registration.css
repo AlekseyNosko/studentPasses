@@ -1,0 +1,31 @@
+/*Content*/
+
+.content {
+    padding-top: 60px;
+}
+
+.registration p, h1 ,input{
+    text-align: center;
+}
+
+.info {
+    text-align: center;
+}
+.gh {
+    display: inline-block;
+    width: 50%;
+}
+
+.gh p {
+    text-align: right;
+    padding-right: 18px;
+}
+
+.hg {
+    display: inline-block;
+}
+.errors {
+    text-align: center;
+}
+
+/*Content*/

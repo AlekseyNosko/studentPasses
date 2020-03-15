@@ -1,0 +1,210 @@
+/*Content*/
+.content {
+    padding-top: 60px;
+}
+
+.success {
+    background-color: #8fff9e;
+}
+
+.block p, h1 ,input{
+    text-align: center;
+}
+
+.info {
+    text-align: center;
+}
+.gh {
+    display: inline-block;
+    width: 50%;
+}
+
+.gh p {
+    text-align: right;
+    padding-right: 18px;
+}
+
+.hg {
+    display: inline-block;
+}
+.errors {
+    text-align: center;
+}
+
+
+/*.creat_statiya {*/
+/*    text-align: center;*/
+/*    margin-top: 20px;*/
+/*    margin-bottom: 20px;*/
+/*}*/
+
+/*.creat_statiya button {*/
+/*    background-color: transparent;*/
+/*    border-radius: 30px;*/
+/*    color: rgb(131,131,135);*/
+/*    padding: 5px 15px 5px 15px;*/
+/*    border-style: solid;*/
+/*    border-color: rgb(90, 85, 86);*/
+/*    margin-right: 40px;*/
+/*}*/
+
+/*.creat_statiya button a {*/
+/*    text-decoration: none;*/
+/*    font-size: 18px;*/
+/*    color: rgb(90, 85, 86);*/
+/*}*/
+
+/*.content {*/
+/*    padding-top: 30px;*/
+/*}*/
+
+/*.block {*/
+/*    display: flex;*/
+/*    justify-content: left;*/
+/*    padding: 0 20% 0 20% 0;*/
+/*}*/
+
+/* .statii {*/
+/*    width: 75%;*/
+/*} */
+
+/*.statiya {*/
+/*    margin: 0 60px 60px 0;*/
+/*   color: rgb(131,131,135);*/
+/*}*/
+
+/*.statiya img {*/
+/*    width: 100%;*/
+/*}*/
+
+/*.statiya a {*/
+/*    text-decoration: none;*/
+/*    color: rgb(90, 85, 86);*/
+/*}*/
+
+/*.statiya button {*/
+/*    background-color: transparent;*/
+/*    border-radius: 30px;*/
+/*    color: rgb(131,131,135);*/
+/*    padding: 5px 15px 5px 15px;*/
+/*    border-style: solid;*/
+/*    border-color: rgb(163, 163, 163);*/
+/*}*/
+
+/*.statiya button a {*/
+/*    text-decoration: none;*/
+/*    color: rgb(131,131,135);*/
+/*}*/
+
+/*.image {*/
+/*    position: relative;*/
+/*}*/
+
+/*.image:hover::after {*/
+/*    content: attr(data-title); !* Выводим текст *!*/
+/*    position: absolute; !* Абсолютное позиционирование *!*/
+/*    left: 0; right: 0; bottom: 3px; !* Положение подсказки *!*/
+/*    z-index: 1; !* Отображаем подсказку поверх других элементов *!*/
+/*    background: rgba(27, 28, 31, 0.7); !* Полупрозрачный цвет фона *!*/
+/*    color: #fff; !* Цвет текста *!*/
+/*    text-align: left; !* Выравнивание текста по центру *!*/
+/*    font-family: Arial, sans-serif; !* Гарнитура шрифта *!*/
+/*    font-size: 12px; !* Размер текста подсказки *!*/
+/*    padding: 10px 10px; !* Поля *!*/
+/*    border: 1px solid #333; !* Параметры рамки *!*/
+/*}*/
+
+/*.search h4 {*/
+/*    background-color: rgb(248,248,250);*/
+/*    padding: 10px 0 10px 20px;*/
+/*    border-left: 3px solid rgb(151,196,139);*/
+/*    color: rgb(83,77,79);*/
+/*}*/
+
+/*.categories h4 {*/
+/*    background-color: rgb(248,248,250);*/
+/*    padding: 10px 0 10px 20px;*/
+/*    border-left: 3px solid rgb(151,196,139);*/
+/*    color: rgb(83,77,79);*/
+/*}*/
+
+/*.categories ul {*/
+/*    list-style-type: none;*/
+/*}*/
+
+/*.categories ul li a {*/
+/*    */
+/*    color: rgb(133, 179, 120);*/
+/*}*/
+
+/*.tuned h4 {*/
+/*    background-color: rgb(248,248,250);*/
+/*    padding: 10px 0 10px 20px;*/
+/*    border-left: 3px solid rgb(151,196,139);*/
+/*    color: rgb(83,77,79);*/
+/*}*/
+
+/*.inputbutton {*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*}*/
+
+/*.inputbutton input {*/
+/*    padding: 10px 0 10px 15px;*/
+/*    border: 1px ;*/
+/*    border-style: solid;*/
+/*    border-right: none;*/
+/*    border-color: rgb(211, 211, 218);*/
+/*    width: 100%;*/
+/*}*/
+
+/*.inputbutton button {*/
+/*    background-color: transparent;*/
+/*    border: 1px ;*/
+/*    border-style: solid;*/
+/*    border-left: none;*/
+/*    border-color: rgb(211, 211, 218);*/
+/*}*/
+
+/*.banner {*/
+/*    margin-top: 30px;*/
+
+/*}*/
+
+/*.banner img {*/
+/*    width: 280px;*/
+/*    height: 320px;*/
+/*}*/
+
+/*.scroll {*/
+/*    border-top: 1px solid rgb(240,240,240);*/
+/*    display: flex;*/
+/*    justify-content: space-between;*/
+/*    align-items: center;*/
+/*}*/
+
+/*.pagination a {*/
+/*    */
+/*    font-size: 13px;*/
+/*    text-decoration: none;*/
+/*    background-color: transparent;*/
+/*    padding: 3px 6px 3px 6px;*/
+/*    border: 1px solid rgb(211, 211, 211);*/
+/*   */
+/*    color: rgb(131,131,135); */
+/*}*/
+
+/*.butt {*/
+/*    margin: 10px;*/
+/*    display: inline-block;*/
+/*}*/
+
+/*.butt a {*/
+/*    border: none;*/
+/*    font-size: 13px;*/
+/*    text-decoration: none;*/
+/*    background-color: transparent;*/
+/*    color: rgb(131,131,135); */
+/*}*/
+
+/*Content*/
